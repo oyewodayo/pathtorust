@@ -8,6 +8,7 @@
 <strong>Installation guide</strong>
 <br>
 Whatever the operating system you are using, click on <a href="https://www.rust-lang.org/tools/install">RustLang</a> and follow the steps given to have it installed on your system.
-
 </div>
+
+String complexity
 
