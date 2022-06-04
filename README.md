@@ -11,4 +11,4 @@ Whatever the operating system you are using, click on <a href="https://www.rust-
 </div>
 
 Table of content <br>
-1. <a href="https://github.com/oyewodayo/pathtorust/blob/master/variable-declaration.md">  Varibales </a>
+1. <a href="https://github.com/oyewodayo/pathtorust/blob/master/variable-declaration.md">  Variables </a>
